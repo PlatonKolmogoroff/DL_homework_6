@@ -1,1 +1,1 @@
-# DL_homework_6
+# https://platonkolmogoroff.github.io/DL_homework_6/#
